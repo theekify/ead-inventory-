@@ -1,0 +1,5 @@
+com\example\Inventory\Employee\Employee.class
+com\example\Inventory\Employee\EmployeeController.class
+com\example\Inventory\InventoryApplication.class
+com\example\Inventory\Employee\EmployeeService.class
+com\example\Inventory\Employee\EmployeeRepository.class
