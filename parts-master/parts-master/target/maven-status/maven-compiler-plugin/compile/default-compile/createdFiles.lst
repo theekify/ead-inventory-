@@ -1,0 +1,5 @@
+com\parts\Inventory\parts\Parts.class
+com\parts\Inventory\parts\PartsApplication.class
+com\parts\Inventory\parts\PartsService.class
+com\parts\Inventory\parts\PartsController.class
+com\parts\Inventory\parts\PartsRepository.class
